@@ -52,9 +52,9 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/@bhishek_patel
+[1]: https://twitter.com/@abhishekpatel_0
 [2]: https://github.com/abhishekpatel946
-[3]: https://www.linkedin.com/in/abhishek-patel-700442172/
+[3]: https://www.linkedin.com/abhishek-patel-700442172/
 
 
 <!-- Resources -->
