@@ -32,7 +32,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekpatel946&repo=PassManager-pyScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
    
-<a href="https://github.com/abhishekpatel946/Jarvis_FileManager-python">
+<a href="https://github.com/abhishekpatel946/DeskCleaner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekpatel946&repo=DeskCleaner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
