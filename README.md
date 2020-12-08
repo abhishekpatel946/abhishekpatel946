@@ -3,7 +3,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Abhishek Patel and basically I'm a Full Stack Developer. I'm from India, and currently I'm a Student.
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+You can find me on <a href="https://dev.to/abhishekpatel946">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Patel's DEV Profile" height="20" width="20">
+</a> - [![LinkedIn][3.2]][3].
 
 
 ## 🔧 Technologies & Tools
@@ -21,7 +23,10 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/0)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/0)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/1)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/1)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/2)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/2)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/3)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/3)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/4)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/4)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/5)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/5)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/6)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/6)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/7)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/7)
 
 <!-- Badges 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> -->                                                                                                                                                                                
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> 
+[![Abhishek Patel's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/abhishekpatel946)
+-->
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhishekpatel946/abhishekpatel946">
@@ -45,7 +50,6 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
