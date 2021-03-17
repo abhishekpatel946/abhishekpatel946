@@ -22,9 +22,7 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
  <!-- SourcererIo                                                                                                                                                              
 [![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/0)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/0)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/1)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/1)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/2)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/2)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/3)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/3)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/4)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/4)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/5)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/5)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/6)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/6)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/7)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/7)
 -->
-
-<!-- Badges 
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)"> 
+<!--
 [![Abhishek Patel's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/abhishekpatel946)
 -->
 
@@ -38,6 +36,8 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpatel946&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=darkhub&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
+  
 
 <!-- links to social media icons -->
 
