@@ -29,6 +29,11 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 
 ## &#x1f4c8; GitHub Stats
 
+| Abhishek's Matrix  | Abhishek's Streak |
+| :---:        |        :---: |
+| ![GitHub metrics](https://metrics.lecoq.io/abhishekpatel946)     | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekpatel946)         |
+
+
 <a href="https://github.com/abhishekpatel946/abhishekpatel946">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpatel946&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
