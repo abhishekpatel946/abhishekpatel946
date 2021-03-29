@@ -20,7 +20,7 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekpatel946.abhishekpatel946?color=2bbc8a)
 
- <!-- SourcererIo                                                                                                                                                              
+ <!-- SourcererIo                                                                                                                                                 
 [![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/0)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/0)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/1)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/1)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/2)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/2)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/3)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/3)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/4)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/4)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/5)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/5)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/6)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/6)[![](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/images/7)](https://sourcerer.io/fame/abhishekpatel946/abhishekpatel946/abhishekpatel946/links/7)
 -->
 <!--
@@ -38,7 +38,11 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 </a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=darkhub&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-  
+
+<!--
+![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishekpatel946&layout=compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishekpatel946)  
+-->
 
 <!-- links to social media icons -->
 
