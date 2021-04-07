@@ -3,9 +3,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Abhishek Patel and basically I'm a Full Stack Developer. I'm from India, and currently I'm a Student.
+<!--
 You can find me on <a href="https://dev.to/abhishekpatel946">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Patel's DEV Profile" height="20" width="20">
 </a> - [![LinkedIn][3.2]][3].
+-->
+### Connect with me:
+<a href="https://twitter.com/abhishekpatel_0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/abhishekpatel946/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
 
 
 ## 🔧 Technologies & Tools
