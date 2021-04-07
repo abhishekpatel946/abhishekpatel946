@@ -1,8 +1,8 @@
 ![Shot](https://github.com/abhishekpatel946/abhishekpatel946/blob/master/My%20Post.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 My name is Abhishek Patel and basically I'm a Full Stack Developer. I'm from India, and currently I'm a Student.
+
 <!--
 You can find me on <a href="https://dev.to/abhishekpatel946">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Patel's DEV Profile" height="20" width="20">
@@ -37,7 +37,7 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 | :---:        |        :---: |
 | ![GitHub metrics](https://metrics.lecoq.io/abhishekpatel946)     | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekpatel946)         |
 
-
+<p align="center">
 <a href="https://github.com/abhishekpatel946/abhishekpatel946">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpatel946&hide=&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -47,7 +47,7 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 </a>
 
 <img src="https://github-profile-trophy.vercel.app/?username=abhishekpatel946&theme=darkhub&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
-
+</p>
 <!--
 ![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhishekpatel946&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishekpatel946)  
