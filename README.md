@@ -1,7 +1,7 @@
 ![Shot](https://github.com/abhishekpatel946/abhishekpatel946/blob/master/My%20Post.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Abhishek Patel and basically I'm a Full Stack Developer. I'm from India, and currently I'm a Student.
+My name is Abhishek Patel and basically I'm a Full Stack Developer from India.
 
 <!--
 You can find me on <a href="https://dev.to/abhishekpatel946">
