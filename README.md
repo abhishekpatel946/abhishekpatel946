@@ -1,27 +1,43 @@
 ![Shot](https://github.com/abhishekpatel946/abhishekpatel946/blob/master/My%20Post.png)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Abhishek Patel and basically I'm a Full Stack Developer from India.
+
+Hi 🖐, I am Abhishek Patel, and enthusiast in Full-Stack Blockchain Developer 👨‍💻 or Open-Source Contributor 👾. 
+I'm a dedicated developer who writes efficient & clean code.
 
 <!--
 You can find me on <a href="https://dev.to/abhishekpatel946">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Patel's DEV Profile" height="20" width="20">
 </a> - [![LinkedIn][3.2]][3].
 -->
-### Connect with me:
+### Connect with me
+
 <a href="https://twitter.com/abhishekpatel_0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/abhishekpatel946/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
 
-
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NEXT.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-WEB3-informational?style=flat&logo=web3.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VS-CODE?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CI/CD-informational?style=flat&logo=devops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platform-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=abhishekpatel946.abhishekpatel946?color=2bbc8a)
 [![wakatime](https://wakatime.com/badge/user/7275ee33-3c79-436a-a815-c22450d43021.svg)](https://wakatime.com/@7275ee33-3c79-436a-a815-c22450d43021)
  <!-- SourcererIo                                                                                                                                                 
@@ -33,9 +49,9 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 
 ## &#x1f4c8; GitHub Stats
 
-| Abhishek's Matrix  | Abhishek's Streak |
-| :---:        |        :---: |
-| ![GitHub metrics](https://metrics.lecoq.io/abhishekpatel946)     | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekpatel946)         |
+|                      Abhishek's Matrix                       |                                        Abhishek's Streak                                        |
+| :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| ![GitHub metrics](https://metrics.lecoq.io/abhishekpatel946) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekpatel946) |
 
 <p align="center">
 <a href="https://github.com/abhishekpatel946/abhishekpatel946">
@@ -71,7 +87,6 @@ You can find me on <a href="https://dev.to/abhishekpatel946">
 [1]: https://twitter.com/@abhishekpatel_0
 [2]: https://github.com/abhishekpatel946
 [3]: https://www.linkedin.com/abhishek-patel-700442172/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
