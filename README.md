@@ -1,6 +1,6 @@
 ![Shot](https://github.com/abhishekpatel946/abhishekpatel946/blob/master/My%20Post.png)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Hi 🖐, I am Abhishek Patel, and enthusiast in Full-Stack Blockchain Developer 👨‍💻 or Open-Source Contributor 👾. 
 I'm a dedicated developer who writes efficient & clean code.
