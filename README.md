@@ -3,7 +3,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Hi 🖐, I am Abhishek Patel, and enthusiast in Full-Stack Blockchain Developer 👨‍💻 or Open-Source Contributor 👾. 
-I'm a dedicated developer who writes efficient & clean code.
+
+Open to talk 😮 about Web3 🕸️ & Distributed System 🖧. Feel free to contact me 😎.
 
 <!--
 You can find me on <a href="https://dev.to/abhishekpatel946">
